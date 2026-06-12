@@ -57,7 +57,7 @@ Netflix-Recommendation-System/
 │   └── Technical_Report.pdf
 │
 ├── presentation/
-│   └── Presentation.pptx
+│   └── Presentation.pdf
 │
 ├── images/
 │   ├── user_activity_distribution.png
